@@ -1,5 +1,5 @@
 # Livro de receitas :man_cook:
 
-Olá! Bem vindo ao meu livro de receitas :clap:
+Olá! Bem vindo ao meu projeto de livro de receitas :clap:
 
 - Strogonoff de frango
